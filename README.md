@@ -23,9 +23,9 @@ Regional Insights
 -Product preferences by country
 
 Key Insights
--The total sales growth rate is 99.9% increase 
--The Average order value (aov) is 281 indicating a high
--Revenue per visitor is 309
+-The total sales growth rate is 99.9% increase which indicates a strong market performance and successful sales strategy for the year. 
+-The Average order value (aov) is 281 indicating high profitability and healthy market base and also success of selling higher priced items.
+-Revenue per visitor is 309 indicates a positive user experience :i.e ability to turn visots into paying customers.
 
 Recommendation
 
